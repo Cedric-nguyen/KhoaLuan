@@ -1,0 +1,1054 @@
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Study\gitClone\KmeanPic\KmeanPic\obj\Debug\KmeanPic.pdb
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.exe.config
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.exe
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.pdb
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csprojResolveAssemblyReference.cache
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.Cache
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.exe
+D:\Khoá luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture\KmeanPic\obj\Debug\KmeanPic.csprojResolveAssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\Khóa luận\gitclone\search-images-exactly-using-kmeans\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.AddR.resources
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.AddR.resources
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\tuanp\OneDrive\Máy tính\File báo cáo\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.AddR.resources
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\admin\Downloads\source code\KmeanPicture New\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.AddR.resources
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\admin\Desktop\KmeanPicture New\KmeanPic\obj\Debug\KmeanPic.pdb
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\KmeanPic.exe.config
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\KmeanPic.exe
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\KmeanPic.pdb
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.AddR.resources
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.Form1.resources
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.Properties.Resources.resources
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.exe.licenses
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.csproj.CopyComplete
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.exe
+C:\Users\admin\Desktop\KmeansNew\KmeanPic\obj\Debug\KmeanPic.pdb
